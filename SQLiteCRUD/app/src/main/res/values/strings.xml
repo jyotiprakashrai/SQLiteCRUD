@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SqliteCRUD</string>
+    <string name="ListDataActivity">ListDataActivity</string>
+</resources>
